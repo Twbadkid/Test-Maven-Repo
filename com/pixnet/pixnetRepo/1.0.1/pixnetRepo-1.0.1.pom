@@ -22,7 +22,7 @@
       <groupId>org.json</groupId>
       <artifactId>json</artifactId>
       <version>20140107</version>
-      <scope>runtime</scope>
+      <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>com.pixnet</groupId>
