@@ -19,6 +19,12 @@
       <scope>test</scope>
     </dependency>
     <dependency>
+      <groupId>org.json</groupId>
+      <artifactId>json</artifactId>
+      <version>20140107</version>
+      <scope>runtime</scope>
+    </dependency>
+    <dependency>
       <groupId>com.pixnet</groupId>
       <artifactId>pixnetRepo</artifactId>
       <version>1.0.0</version>
